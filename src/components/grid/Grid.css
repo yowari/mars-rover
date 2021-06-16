@@ -1,0 +1,7 @@
+.Grid {
+  position: relative;
+}
+
+.Grid-cell {
+  position: absolute;
+}

@@ -1,26 +1,17 @@
 import React from 'react';
-import logo from './logo.svg';
 import './App.css';
+import AppStateProvider from './AppStateProvider';
+import Header from './components/header/Header';
+import Playground from './components/playground/Playground';
 
-function App() {
+export default function App() {
   return (
-    <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.tsx</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
-    </div>
+    <AppStateProvider>
+      <Header />
+
+      <main className="container my-4">
+        <Playground />
+      </main>
+    </AppStateProvider>
   );
 }
-
-export default App;
