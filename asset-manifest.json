@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/mars-rover/static/css/main.aeff22f6.chunk.css",
+    "main.js": "/mars-rover/static/js/main.13e79a27.chunk.js",
+    "main.js.map": "/mars-rover/static/js/main.13e79a27.chunk.js.map",
+    "runtime-main.js": "/mars-rover/static/js/runtime-main.5823ad12.js",
+    "runtime-main.js.map": "/mars-rover/static/js/runtime-main.5823ad12.js.map",
+    "static/css/2.b4148f16.chunk.css": "/mars-rover/static/css/2.b4148f16.chunk.css",
+    "static/js/2.5fdeb121.chunk.js": "/mars-rover/static/js/2.5fdeb121.chunk.js",
+    "static/js/2.5fdeb121.chunk.js.map": "/mars-rover/static/js/2.5fdeb121.chunk.js.map",
+    "static/js/3.ba9b4250.chunk.js": "/mars-rover/static/js/3.ba9b4250.chunk.js",
+    "static/js/3.ba9b4250.chunk.js.map": "/mars-rover/static/js/3.ba9b4250.chunk.js.map",
+    "index.html": "/mars-rover/index.html",
+    "static/css/2.b4148f16.chunk.css.map": "/mars-rover/static/css/2.b4148f16.chunk.css.map",
+    "static/css/main.aeff22f6.chunk.css.map": "/mars-rover/static/css/main.aeff22f6.chunk.css.map",
+    "static/js/2.5fdeb121.chunk.js.LICENSE.txt": "/mars-rover/static/js/2.5fdeb121.chunk.js.LICENSE.txt",
+    "static/media/index.css": "/mars-rover/static/media/bootstrap-icons.dfd0ea12.woff2"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.5823ad12.js",
+    "static/css/2.b4148f16.chunk.css",
+    "static/js/2.5fdeb121.chunk.js",
+    "static/css/main.aeff22f6.chunk.css",
+    "static/js/main.13e79a27.chunk.js"
+  ]
+}
